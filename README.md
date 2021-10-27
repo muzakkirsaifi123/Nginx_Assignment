@@ -57,7 +57,7 @@ sudo rm default
 #### Step-4. Restart nginx server using this command.
 
 
-> Restart and status check respectivly 
+> Restart and status check respectively 
 
 ```bash
 systemctl restart nginx.service
